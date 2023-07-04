@@ -29,6 +29,18 @@ Users can deposit funds into their account by specifying the amount to be deposi
 ## Database Connection:
 The Connect class handles the database connection and interaction. It establishes a connection with the database and provides methods for executing SQL queries and updating the data.
 
+# Libraries Used
+The Bank Management System project utilizes the following libraries:
+
+## javax.swing: 
+Used for creating the graphical user interface (GUI) components such as buttons, labels, text fields, and panels. It provides a rich set of GUI components to build interactive and visually appealing user interfaces.
+
+## java.awt:
+Provides the foundation for building GUI components. It includes classes for basic GUI functionality, such as windows, graphics, and event handling.
+
+## java.sql:
+Enables interaction with the database by providing classes and interfaces for executing SQL queries, accessing and manipulating data, and managing database connections.
+
 # Getting Started
 To set up and run the Bank Management System, follow these steps:
 
