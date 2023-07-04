@@ -2,10 +2,10 @@
 The Bank Management System is a Java-based application that provides a comprehensive solution for managing banking operations. It is designed to simplify and automate various banking processes, such as customer account management, transaction processing, and reporting. This README file provides an overview of the project, its features, and instructions for setting up and running the application.
 
 # Features
-# Login:
+## Login:
 Users can log in to the system using their credentials. The login page verifies the username and password against the stored user data in the database.
 
-# Signup:
+## Signup:
 New users can create an account by providing their personal information, such as name, address, contact details, and choosing a username and password.
 
 # Additional Details:
